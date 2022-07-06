@@ -1,6 +1,6 @@
 - 👋 Salam, I’m @QUHNUKK
 - 👀 I’m interested in computer hardware
-- 🌱 I’m currently learning computer engineering
-- 📫 How to reach me : email
+- 🌱 I’m currently software engineering and computer vision
+- 📫 How to reach me : hk2104099@qu.edu.qa
 - 👨🏾‍🎓 Full time student
-
+- 🎓 Sophomore at Qatar University
