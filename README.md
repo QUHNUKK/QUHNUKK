@@ -2,5 +2,5 @@
 - 👀 I’m interested in computer hardware
 - 🌱 I’m currently software engineering and computer vision
 - 📫 How to reach me : hk2104099@qu.edu.qa
-- 👨🏾‍🎓 Full time student
+- 👨🏾‍🎓 Full time student, looking for online internships
 - 🎓 Sophomore at Qatar University
