@@ -1,6 +1,5 @@
 - 👋 Salam, I’m @QUHNUKK
-- 👀 I’m interested in computer hardware
-- 🌱 I’m currently software engineering and computer vision
+- 👀 I’m interested in PC building
 - 📫 How to reach me : hk2104099@qu.edu.qa
-- 👨🏾‍🎓 Full time student, looking for online internships
-- 🎓 Sophomore at Qatar University
+- 👨🏾‍🎓 Full time student, looking for internships related to pentesting
+- 🎓 Junior at Qatar University
