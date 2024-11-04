@@ -1,5 +1,4 @@
-- 👋 Salam, I’m @QUHNUKK
-- 👀 I’m interested in PC building
-- 📫 How to reach me : hk2104099@qu.edu.qa
-- 👨🏾‍🎓 Full time student, looking for internships related to pentesting
-- 🎓 Junior at Qatar University
+I'm a guy that likes ML and cybersecurity.
+Working on a few ML and LLM projects.
+Studying Computer Science with a concentration in cybersecurity in Qatar University, I'm a jobless senior.
+I have done Security+ certification, working towards AZ-500 and PNPT certifcations.
