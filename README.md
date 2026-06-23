@@ -1,4 +1,3 @@
 - A guy who likes ML and cybersecurity.
-- Working on a few ML/LLM & cybersecurity projects.
 - Got a BSc in Computer Science with a concentration in Cybersecurity in Qatar University.
-- Working Sec Infra Engineer+doing hbku masters in cybersecurity.
+- doing masters in cybersecurity @ hbku.
